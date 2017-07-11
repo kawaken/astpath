@@ -1,0 +1,26 @@
+{
+  "name": "astpath",
+  "version": "0.0.1",
+  "description": "a tool to traverse AST of TypeScript like xmlpath",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "./node_modules/typescript/bin/tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawaken/astpath.git"
+  },
+  "keywords": [
+    "AST"
+  ],
+  "author": "Kentaro Kawano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kawaken/astpath/issues"
+  },
+  "homepage": "https://github.com/kawaken/astpath#readme",
+  "dependencies": {
+    "typescript": "^2.4.1"
+  }
+}
