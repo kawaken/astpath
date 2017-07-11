@@ -2,7 +2,7 @@
   "name": "astpath",
   "version": "0.0.1",
   "description": "a tool to traverse AST of TypeScript like xmlpath",
-  "main": "dist/index.js",
+  "main": "list/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "tsc": "./node_modules/typescript/bin/tsc"
